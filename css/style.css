@@ -38,3 +38,13 @@
 #portfolio img {
   width: 100%;
 }
+
+/* about */
+
+#about {
+  background-color: #1abc9c;
+}
+
+#about h2 {
+  text-align: center;
+}
