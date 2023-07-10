@@ -13,3 +13,16 @@
   background-color: pink;
   border: 1px solid black;
 }
+
+/* MAIN */
+
+/* hero */
+
+#hero {
+  background-color: #1abc9c;
+  text-align: center;
+}
+
+#hero img {
+  width: 50%;
+}
