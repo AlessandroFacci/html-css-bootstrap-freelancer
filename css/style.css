@@ -22,11 +22,10 @@
 
 #hero {
   background-color: #1abc9c;
-  text-align: center;
 }
 
 #hero img {
-  width: 50%;
+  max-width: 300px;
 }
 
 /* portfolio */
